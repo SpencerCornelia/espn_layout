@@ -17,17 +17,53 @@ body {
 
 .scoreboard {
 	width: 100%;
+	background-color: #eee; 
 	height: 65px;
-	background: #eee;
 }
 
 .topEvents {
 	border-right: 1px solid black;
 	height: 65px;
 	width: 160px;
+	float: left;
 }
 
 .dropdown-toggle {
 	margin-left: 25px;
 	margin-top: 15px;
 }
+
+.titleLeague {
+	float: left;
+	height: 65px;
+	width: 90px;
+	border-right: 1px solid black;
+	padding-left: 20px;
+	padding-top: 23px;
+}
+
+.golfScore {
+	float: left;
+	width: 160px;
+	height: 65px;
+	background-color: white;
+	font-size: .9em;
+	border-right: 1px solid black;
+}
+
+.overview p {
+	color: red;
+	text-align: center;
+}
+
+.event-status {
+	text-align: center;
+	margin-top: -10px;
+}
+
+.standing {
+	text-align: center;
+	margin-top: -5px;
+}
+
+
