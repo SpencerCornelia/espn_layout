@@ -66,4 +66,21 @@ body {
 	margin-top: -5px;
 }
 
+.standing img {
+	margin-top: -4px;
+}
+
+.mlbGame {
+	float: left;
+	border-right: 1px solid black;
+	width: 100px;
+	height: 65px;
+	background-color: white;
+}
+
+.competitors {
+	display: table-cell;
+	list-style-type: none;
+}
+
 
