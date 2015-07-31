@@ -20,3 +20,14 @@ body {
 	height: 65px;
 	background: #eee;
 }
+
+.topEvents {
+	border-right: 1px solid black;
+	height: 65px;
+	width: 160px;
+}
+
+.dropdown-toggle {
+	margin-left: 25px;
+	margin-top: 15px;
+}
