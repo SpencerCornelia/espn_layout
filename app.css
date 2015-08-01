@@ -218,6 +218,7 @@ h4 {
 	width: 160px;
 	padding-left: 7px;
 	height: 40px;
+	padding-top: 4px;
 }
 
 .insiderWrapper img {
@@ -256,6 +257,7 @@ h4 {
 	width: 160px;
 	padding-left: 7px;
 	height: 40px;
+	padding-top: 4px;
 }
 
 .falconsWrapper img {
@@ -289,6 +291,7 @@ h4 {
 	width: 160px;
 	padding-left: 7px;
 	height: 40px;
+	padding-top: 4px;
 }
 
 .gasoWrapper img {
@@ -322,6 +325,7 @@ h4 {
 	width: 160px;
 	padding-left: 7px;
 	height: 40px;
+	padding-top: 4px;
 }
 
 .texWrapper img {
@@ -366,3 +370,63 @@ h4 {
 	margin-top: 25px;
 	font-size: 11px;
 }
+
+.newsWrapper {
+	width: 550px;
+	height: 800px;
+	background-color: white;
+	float: left;
+	margin-left: 30px;
+}
+
+.headlineImage img {
+	width: 100%;
+	height: 225px;
+}
+
+.photoCred {
+	text-align: right;
+	font-size: 10px;
+	padding-right: 10px;
+	padding-top: 3px;
+	color: gray;
+}
+
+.mainScore {
+	width: 235px;
+	height: 370px;
+	float: left;
+	border-right: 1px solid #ddd;
+	margin-top: 10px;
+}
+
+.mainTime {
+	color: gray;
+	font-size: 10px;
+	padding-left: 8px;
+}
+
+.mainHeadline {
+	font-size: 20px;
+	padding-left: 8px;
+}
+
+.mainPar {
+	padding-left: 8px;
+	color: gray;
+	font-size: 14px;
+	width: 96%;
+	padding-top: 10px;
+}
+
+.scoreBox {
+	border: 1px solid #ddd;
+	width: 84%;
+	color: #666;
+	margin-top: 9px;
+	margin-left: 18px;
+	padding: 7px 0 7px 7px;
+}
+
+
+
