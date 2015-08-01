@@ -76,11 +76,40 @@ body {
 	width: 100px;
 	height: 65px;
 	background-color: white;
+	font-size: 10px;
+}
+
+div.mlbGame div.overview {
+	padding-left: 10px;
 }
 
 .competitors {
-	display: table-cell;
+	display: table;
 	list-style-type: none;
+}
+
+.logo {
+	float: left;
+}
+
+.team {
+	float: left;
+	margin-left: 4px;
+}
+
+.record {
+	float: right;
+	margin-left: 20px;
+	color: #999;
+}
+
+.away {
+	height: 20px;
+	margin-top: 8px;
+}
+
+.abbreviation {
+	font-size: 12px;
 }
 
 
