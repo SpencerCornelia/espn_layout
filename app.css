@@ -112,4 +112,12 @@ div.mlbGame div.overview {
 	font-size: 12px;
 }
 
+.scoreArrow {
+	height: 65px;
+	background-color: #eee;
+	float: left;
+	margin-left: 15px;
+	padding-top: 10px;
+}
+
 
