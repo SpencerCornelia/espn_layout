@@ -479,3 +479,65 @@ div.leftScoreBox ul li .team .abbreviation {
 	font-size: 12px;
 	padding-top: 6px;
 }
+
+.instantFeed {
+	float: left;
+	width: 350px;
+	height: 500px;
+	padding-left: 20px;
+}
+
+.instantFeed p {
+	font-size: 20px;
+}
+
+.astrosFeed {
+	width: 348px;
+	height: 145px;
+	background-color: white;
+}
+
+.astrosTitleWrapper {
+	width: 100%;
+	height: 80px;
+}
+
+.astrosFeed img {
+	padding-left: 12px;
+	padding-top: 10px;
+	float: left;
+}
+
+.astrosTitleWrapper ul {
+	padding-left: 10px;
+}
+
+.astrosTitleWrapper ul li {
+	list-style-type: none;
+	display: block;
+	font-size: 11px;
+	padding-top: 6px;
+	padding-left: 50px;
+}
+
+.astrosFeed p {
+	font-size: 12px;
+	padding-left: 10px;
+	margin-top: -10px;
+}
+
+.astrosFeed p span {
+	color: blue;
+}
+
+.fa-twitter {
+	color: #51ABD5;
+	margin-left: 10px;
+	float: left;
+}
+
+.bottomTwitter li {
+	list-style-type: none;
+	display: inline;
+}
+
